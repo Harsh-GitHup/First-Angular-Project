@@ -1,0 +1,21 @@
+.footer {
+  background-color: #fbfbfb;
+  padding-left: 50px;
+  padding-top: 40px;
+  display: flex;
+
+}
+
+#firstpart {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-evenly;
+  color: #666;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 40px;
+}
+
+.secondpart {
+  display: flex;
+}
